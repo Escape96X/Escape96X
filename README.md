@@ -1,1 +1,1 @@
-<center><img src="milan.gif"  width="100%" height="100%" /></center>
+<center><img src="milan.gif"  width="70%" height="70%" /></center>
